@@ -49,13 +49,15 @@
 
 
 ## ☕ Support the Project
+
+**Developed with ❤️ in Venezuela** 🇻🇪
+
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge)](https://ko.fi.com/josegjimenezs)
+ 
+[Support me on PayPal](https://paypal.me/josegjimenez)
+
 
 Your support helps with testing devices, security audits, and new feature development.
-
-**Direct tip link**:
-
-<a href='https://ko-fi.com/W7W71FKS85' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 > *"Un gran abrazo desde Venezuela - Your support means the world to me!"* 🇻🇪  
 > - José Jiménez
