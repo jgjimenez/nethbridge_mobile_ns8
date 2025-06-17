@@ -56,11 +56,18 @@
  
 [Support me on PayPal](https://paypal.me/josegjimenez)
 
-
 Your support helps with testing devices, security audits, and new feature development.
 
 > *"Un gran abrazo desde Venezuela - Your support means the world to me!"* 🇻🇪  
 > - José Jiménez
+
+## Other ways to support:
+
+Share the app with other users.
+
+Report bugs and suggest improvements.
+
+Give the repository a star! ⭐
 
 # Special Acknowledgments
 
@@ -81,5 +88,6 @@ The entire NethServer Forum community for their knowledge sharing
 Developers who contribute to the NethServer API documentation
 
 Beta testers who provided crucial feedback during development
+
 
 > **Note**: This is an unofficial client developed independently from the NethServer team
