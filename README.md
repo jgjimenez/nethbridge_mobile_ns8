@@ -53,8 +53,9 @@
 
 Your support helps with testing devices, security audits, and new feature development.
 
-**Direct tip link**:  
-https://ko-fi.com/josegjimenezs/tip
+**Direct tip link**:
+
+<a href='https://ko-fi.com/W7W71FKS85' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 > *"Un gran abrazo desde Venezuela - Your support means the world to me!"* 🇻🇪  
 > - José Jiménez
